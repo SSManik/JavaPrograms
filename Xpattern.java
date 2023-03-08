@@ -10,7 +10,7 @@ public class Xpattern {
 		   if(i==j||j==(row+1)-i){
 			   System.out.print("* ");
 		   }else{
-			   System.out.print("0 "); }
+			   System.out.print(" "); }
 		}
 		System.out.println(" ");
 	}
