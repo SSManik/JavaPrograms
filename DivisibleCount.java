@@ -14,11 +14,7 @@ public class DivisibleCount {
 				count++;
 			}
 			n++;
-			
-		}
+			}
 		System.out.println("Totally the given number can divided by "+count+" numbers");
-		
-
 	}
-
 }
